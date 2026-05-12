@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [Obsidian-1.12.7](./Obsidian-1.12.7)
+- [node-v25.7.0-x64](./node-v25.7.0-x64)
 - [rostam-media-extractor-installer-1.0.1](./rostam-media-extractor-installer-1.0.1)
 
 ---
